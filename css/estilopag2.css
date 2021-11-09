@@ -1,0 +1,47 @@
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+div.jumbotron-an {
+  background-color: pink;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 20px 0;
+  color: #fff;
+}
+div.col-sm-4 {
+	 font-family: "Lucida Console", "Courier New", monospace;
+	 text-align: justify
+}
+div.container {
+	 background-color: ;
+	 font-family: "Lucida Console", "Courier New", monospace;
+  padding: 20px 0;
+
+}
+footer {
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: justify
+  text-center
+}
+btn-info {
+  
+}
+body {
+  fo
+}
+</style>
+</head>

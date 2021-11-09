@@ -1,0 +1,41 @@
+<head>
+<style>
+div.text-center {
+  background-color: pink;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+div.col-sm-4 {
+	 font-family: "Lucida Console", "Courier New", monospace;
+	 text-align: justify
+	 text-center
+}
+img.ana {
+	margin: auto;
+	display: block;
+}
+img.text-center{
+	margin: auto;
+	display: block;
+}
+
+
+
+div.text-center {
+  background-color: pink;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 30px 0;
+  color: #fff;
+}
+
+
+footer {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+div.abs-center {
+	display: flex;
+	justify-content: center;
+}
+
+
+</style>
+</head>

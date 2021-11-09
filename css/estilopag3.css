@@ -1,0 +1,30 @@
+<head>
+<style>
+div.jumbotron-an {
+  background-color: pink;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 10px 0;
+  color: #fff;
+}
+div.contenido{
+	margin: 5px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+div.circulo{
+	display: table-cell;
+	padding: 60px;
+justify-content: center;
+	align-items: center;
+	text-align: justify;
+}
+img {
+	border-radius: 50%;
+}
+body {
+	background: silver;
+}
+footer {
+	font-family: "Lucida Console", "Courier New", monospace;
+	}
+</style>
+</head>
